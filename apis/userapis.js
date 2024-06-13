@@ -1,5 +1,5 @@
 //import db schema
-const User = require('../model/User')
+const User = require('../model/user')
 //get all products
 const users_all = async (req, res) => {
     try {
